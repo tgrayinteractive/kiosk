@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 122.1 59.5" style="enable-background:new 0 0 122.1 59.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EA5856;}
+	.st1{fill:#F8AD20;}
+	.st2{fill:#F8BC20;}
+	.st3{fill:#DF9D1C;}
+	.st4{fill:#E8F6FB;}
+	.st5{fill:#82D3F0;}
+	.st6{opacity:0.5;}
+	.st7{fill:#D4504E;}
+	.st8{fill:none;stroke:#EA5856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<rect x="41.5" y="15.3" class="st0" width="9.5" height="31.2"/>
+		<rect x="7.3" y="7.5" class="st0" width="34.3" height="9.5"/>
+	</g>
+	<g>
+		<circle class="st1" cx="46.2" cy="12.2" r="7.1"/>
+		<circle class="st2" cx="46.2" cy="12.2" r="5.7"/>
+		<circle class="st1" cx="46.2" cy="12.2" r="4.6"/>
+		<circle class="st3" cx="46.2" cy="12.2" r="2.2"/>
+	</g>
+</g>
+<g>
+	<circle class="st1" cx="7.1" cy="12.2" r="7.1"/>
+	<circle class="st2" cx="7.1" cy="12.2" r="5.7"/>
+	<circle class="st1" cx="7.1" cy="12.2" r="4.6"/>
+	<circle class="st3" cx="7.1" cy="12.2" r="2.2"/>
+</g>
+<g id="boat_base_2_">
+	<g>
+		<path class="st0" d="M41.6,50.2L41.6,50.2c0,5.1,6.5,9.3,14.5,9.3h45.3c8,0,14.5-4.2,14.5-9.3l0,0H41.6z"/>
+	</g>
+	<rect x="35.8" y="46.4" class="st4" width="86.2" height="4"/>
+</g>
+<g id="boat_door_2_">
+	<g>
+		<path class="st0" d="M92.1,46.4V13.7c0,0,3-6.2,11.8-6.2s11.9,6.2,11.9,6.2v32.7H92.1z"/>
+		<g>
+			<circle class="st1" cx="103.9" cy="21.5" r="5.5"/>
+			<circle class="st5" cx="103.9" cy="21.5" r="4.6"/>
+			<g class="st6">
+				<path class="st4" d="M99.3,21.5c0,2.6,2.1,4.6,4.6,4.6v-9.3C101.4,16.8,99.3,18.9,99.3,21.5z"/>
+			</g>
+			<g>
+				<circle class="st3" cx="103.9" cy="16.4" r="0.2"/>
+				<circle class="st3" cx="98.8" cy="21.5" r="0.2"/>
+				<circle class="st3" cx="103.9" cy="26.5" r="0.2"/>
+				<circle class="st3" cx="109" cy="21.5" r="0.2"/>
+				<circle class="st3" cx="107.7" cy="25" r="0.2"/>
+				<circle class="st3" cx="100.2" cy="25" r="0.2"/>
+				<circle class="st3" cx="107.7" cy="18.1" r="0.2"/>
+				<circle class="st3" cx="100.2" cy="18.1" r="0.2"/>
+			</g>
+		</g>
+		<path class="st4" d="M110.1,0L110.1,0c1,0,1.8,0.8,1.8,1.8v6.6c0,1-0.8,1.8-1.8,1.8l0,0c-1,0-1.8-0.8-1.8-1.8V1.8
+			C108.4,0.8,109.2,0,110.1,0z"/>
+	</g>
+	<g>
+		<path class="st7" d="M99,46.5V32.6c0,0,1.2-2.6,5-2.6s5.1,2.6,5.1,2.6v13.8H99V46.5z"/>
+		<path class="st8" d="M104.1,38.6h4.4c0,0,0.3,2.5-2.5,2.5"/>
+	</g>
+</g>
+</svg>
